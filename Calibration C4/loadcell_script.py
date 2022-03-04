@@ -18,7 +18,7 @@ the next highest valid VPS value.
 # Change Parameters here 
 vps = 10
 excel_file_name = 'Sensor_logs.xlsx'
-logfile_names = ['p0.log', 'p1.log', 'p2.log', 'p3.log', 'p4.log', 'p5.log', 'p6.log', 'p7.log'] #Insert in order
+logfile_names = ['p0.log', 'p1.log', 'p2.log', 'p3.log', 'p4.log', 'p5.log', 'p6.log', 'p7.log', 'p8.log', 'p9.log'] #Insert in order
 
 #########################################################################################
 # Script Begins here
