@@ -45,7 +45,7 @@ NOTE: The program will not overwirte prexisting excel files meaning if an excel 
 By default values per second appears as follows within the program:
 
 ```
-logfile_names = ['p0.log', 'p1.log', 'p2.log', 'p3.log', 'p4.log', 'p5.log', 'p6.log', 'p7.log']
+logfile_names = ['p0.log', 'p1.log', 'p2.log', 'p3.log', 'p4.log', 'p5.log', 'p6.log', 'p7.log', 'p8.log', 'p9.log']
 ```
 
 This parameter is a list containing all the log files to be read (**IN ORDER FROM FIRST TO LAST**).
